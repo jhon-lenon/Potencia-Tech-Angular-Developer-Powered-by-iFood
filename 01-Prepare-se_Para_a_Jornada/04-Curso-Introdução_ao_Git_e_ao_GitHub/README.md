@@ -1,12 +1,11 @@
 # 📚Introdução ao Git e ao GitHub
+![Certificado_IntroduçãoAoGitEGitHub](https://user-images.githubusercontent.com/116371262/231212522-3d8f9e06-f141-4198-8798-4a4984ecae94.png)
 
 ## 👀Descrição:
 <b>
 Curso com o intuito de entender o que é Git e GitHUb, suas importancia e como funcionam, bem como instalação, comando básico, conflitos e criação de commits.
 Ao final do curso, responder um questionário com pontuação para o bootcamp e para certificar o conhecimento.
 </b>
-
-![Certificado_IntroduçãoAoGitEGitHub](https://user-images.githubusercontent.com/116371262/231212522-3d8f9e06-f141-4198-8798-4a4984ecae94.png)
 
 ### 🔺Introdução ao GIT
         🔹Entendendo o que é Git e sua importância  
