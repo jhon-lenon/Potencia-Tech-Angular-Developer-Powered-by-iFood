@@ -6,7 +6,7 @@ Dando os Primeiros passo em JavaScript no bootcamp POTENCIA TECH - ANGULAR DEVEL
 </b>   
 
 ____________________________
-## 📚<i>Curso</i> Primeiros Passos Com JavaScript
+## 📚<i>Curso -</i> Primeiros Passos Com JavaScript - Certificado
 
 ### 🔺Primeiros Pássos com JavaScript
 🔹Variáveis e Operadores  
@@ -18,7 +18,7 @@ ____________________________
 🔹Certifique seu conhecimento  
 
 ____________________________
-## 📚<i>Curso</i> Conhecendo Funções JavaScript  
+## 📚<i>Curso -</i> Conhecendo Funções JavaScript  
 
 
 
