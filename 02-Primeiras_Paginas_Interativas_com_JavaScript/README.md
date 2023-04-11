@@ -5,9 +5,8 @@
 Dando os Primeiros passo em JavaScript no bootcamp POTENCIA TECH - ANGULAR DEVELOPER POWERRED BY IFOOD.
 </b>   
 
-#
-
-![PrimeirosPassosComJavaScript](https://user-images.githubusercontent.com/116371262/231282705-42ab8444-aa73-4cbb-a3e5-35073e212b74.png) 
+____________________________
+## 📚<i>Curso</i> Primeiros Passos Com JavaScript
 
 ### 🔺Primeiros Pássos com JavaScript
 🔹Variáveis e Operadores  
@@ -17,6 +16,11 @@ Dando os Primeiros passo em JavaScript no bootcamp POTENCIA TECH - ANGULAR DEVEL
 ### 🔺Materiais de Apoio e Questionário  
 🔹[Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1)  
 🔹Certifique seu conhecimento  
+
+____________________________
+## 📚<i>Curso</i> Conhecendo Funções JavaScript  
+
+
 
 _____________________________  
 ## <b>👨‍🏫Mentoria:  
