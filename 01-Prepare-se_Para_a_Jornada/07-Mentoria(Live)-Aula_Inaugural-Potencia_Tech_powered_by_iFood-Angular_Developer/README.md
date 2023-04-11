@@ -16,15 +16,17 @@ Nesta mentoria é apresentada toda a jornada neste Bootcamp incrível. Também �
 ![PrimeiraMentoriaSlide10](https://user-images.githubusercontent.com/116371262/231240533-9e7c807a-6638-41f9-8c01-a7d053b2effb.png)  
 ![PrimeiraMentoriaSlide11](https://user-images.githubusercontent.com/116371262/231240615-cd1ae713-e831-4706-9d91-a4dd9cb0f816.png)  
 
+___________________________ 
 ## <b>👨‍🏫Mentoria:  
 Essa mentoria teve como instrutor:  
 
 ####  
-___________________________  
+ 
 [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/ "falvoJr")  
 Education Tech Lead na DIO  
 Doutorando no ICMC-USP  
-____________________________  
+
+#  
 [Luiz](https://www.linkedin.com/in/luiz-alberto-4339b31ab/ "luiz-alberto-4339b31ab")  
 Trabalho na QS INCLUSÃO como intérprete de libras e na coordenação do processo de recrutamento e seleção.  
 </b>
