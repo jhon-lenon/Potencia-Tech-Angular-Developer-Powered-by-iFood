@@ -11,3 +11,11 @@
     🔹Conheça a Área de Artigos da DIO  
     🔹Conheça nosso FAQ  
 </b>
+
+## <b>👨‍🏫Mentoria:  
+Essa mentoria teve como instrutor:  
+
+####  
+[Renan Oliveira]https://www.linkedin.com/in/renan-dio/ "renan-dio")  
+Head of Education da DIO  
+</b>
