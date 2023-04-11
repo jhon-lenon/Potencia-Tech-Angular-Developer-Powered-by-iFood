@@ -20,7 +20,11 @@ Nesta mentoria é apresentada toda a jornada neste Bootcamp incrível. Também �
 Essa mentoria teve como instrutor:  
 
 ####  
+___________________________  
 [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/ "falvoJr")  
 Education Tech Lead na DIO  
 Doutorando no ICMC-USP  
+____________________________  
+[Luiz](https://www.linkedin.com/in/luiz-alberto-4339b31ab/ "luiz-alberto-4339b31ab")  
+Trabalho na QS INCLUSÃO como intérprete de libras e na coordenação do processo de recrutamento e seleção.  
 </b>
