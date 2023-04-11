@@ -2,8 +2,9 @@
 
 ## 👀 Descrição:
 <b>
-Mentoria de como fazer a entrega dos projetos.
-{c:red}IMPORTANTE:{/c} Os Labs entregues na plataforma da DIO ficam disponíveis para as empressas parceiras avaliá-los tecnicamente. 
+Mentoria de como fazer a entrega dos projetos.  
+
+<i>IMPORTANTE:</i> Os Labs entregues na plataforma da DIO ficam disponíveis para as empressas parceiras avaliá-los tecnicamente. 
 </b>
 
 ## <b>👨‍🏫Mentoria:  
