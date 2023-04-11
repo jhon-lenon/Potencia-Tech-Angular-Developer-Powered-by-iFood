@@ -26,8 +26,7 @@ Para isso, em uma abordagem leve e prática é apresentado o papel dos cursos, m
         🔹Dicas Finais e Conclusão  
 
 
-#### 👨‍🏫Mentoria:  
-<b>
+## <b>👨‍🏫Mentoria:  
 Essa mentoria teve como instrutor:  
 
 ####  
