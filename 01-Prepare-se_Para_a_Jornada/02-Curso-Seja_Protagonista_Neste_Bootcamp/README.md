@@ -6,21 +6,30 @@ Para isso, em uma abordagem leve e prática é apresentado o papel dos cursos, m
 
 
 ### 🔺Apresentação e Objetivo Geral
-🔹Apresentação e Objetivo Geral  
-🔹Percurso  
+        🔹Apresentação e Objetivo Geral  
+        🔹Percurso  
 
 ### 🔺Desenvolvendo os Bootcamps DIO
-🔹Bootcamp DIO - Nossa Metodologia de Ensino  
-🔹Bootcamp DIO - Conhecendo Nossa Plataforma  
+        🔹Bootcamp DIO - Nossa Metodologia de Ensino  
+        🔹Bootcamp DIO - Conhecendo Nossa Plataforma  
 
 ### 🔺Desafios de Código
-🔹Desafios de Código  
-🔹Desafios de Código - Entendendo na Prática com Java  
-🔹Desafios de Código - Entendendo na Prática com JavaScript  
+        🔹Desafios de Código  
+        🔹Desafios de Código - Entendendo na Prática com Java  
+        🔹Desafios de Código - Entendendo na Prática com JavaScript  
 
 ### 🔺Desafios de Projeto
-🔹Desafios de Projeto  
-🔹Desafios de Projeto - Entendendo na Prática  
+        🔹Desafios de Projeto  
+        🔹Desafios de Projeto - Entendendo na Prática  
 
 ### 🔺Dicas Finais e Conclusão
-🔹Dicas Finais e Conclusão  
+        🔹Dicas Finais e Conclusão  
+
+
+#### 👨‍🏫Mentoria:
+<b>
+Essa mentoria teve como instrutor:  
+        [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/ "Venilton FalvoJr")
+        Education Tech Lead na DIO
+        Doutorando no ICMC-USP
+</b>
