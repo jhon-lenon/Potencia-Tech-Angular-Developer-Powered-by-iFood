@@ -18,7 +18,7 @@ ____________________________
 🔸Certifique seu conhecimento  
 
 ____________________________
-## 📚<i>Curso -</i> Conhecendo Funções JavaScript - 👨‍🎓[Certificado]()  
+## 📚<i>Curso -</i> Conhecendo Funções JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/02_Conhecendo_Fun%C3%A7%C3%B5es_JavaScript)  
 
 ### 🔺Conhecendo Funções JavaScript  
 🔹O Poder das Funções na Qualidade do Seu Código  
