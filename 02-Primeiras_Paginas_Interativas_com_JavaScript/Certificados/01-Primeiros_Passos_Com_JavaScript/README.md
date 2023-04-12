@@ -1,6 +1,5 @@
-<b>
-Dando os Primeiros passo em JavaScript no bootcamp POTENCIA TECH - ANGULAR DEVELOPER POWERRED BY IFOOD.
-</b>   
+
+# Primeiros passo em JavaScript no bootcamp POTENCIA TECH - ANGULAR DEVELOPER POWERRED BY IFOOD.
 
 #
 

@@ -13,14 +13,20 @@ ____________________________
 🔹Estruturas Condicionais  
 🔹Praticando com Variáveis, Operadores e Estruturas Condicionais  
 
-### 🔺Materiais de Apoio e Questionário - 👨‍🎓Certificado
+### 🔺Materiais de Apoio e Questionário  
 🔹[Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1)  
-🔹Certifique seu conhecimento  
+🔸Certifique seu conhecimento  
 
 ____________________________
-## 📚<i>Curso -</i> Conhecendo Funções JavaScript  
+## 📚<i>Curso -</i> Conhecendo Funções JavaScript - 👨‍🎓[Certificado]()  
 
+### 🔺Conhecendo Funções JavaScript  
+🔹O Poder das Funções na Qualidade do Seu Código  
+🔹Praticando com Funções  
+🔸Certifique seu conhecimento   
 
+### ⭐️ Materiais de Apoio
+🔸[Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1)  
 
 _____________________________  
 ## <b>👨‍🏫Mentoria:  
