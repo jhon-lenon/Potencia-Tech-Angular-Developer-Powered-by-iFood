@@ -22,7 +22,7 @@ ____________________________
 🔹Praticando com Objetos e Classes  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Arrays e Estruturas de Repetição em JavaScrip - 👨‍🎓[Certificado]  
+## 📚<i>Curso -</i> Arrays e Estruturas de Repetição em JavaScrip - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/04-Arrays_Estruturas_de_Repeti%C3%A7%C3%A3o_em_JavaScrip)  
 🔹Arrays e Estruturas de Repetição  
 🔹Praticando Estruturas de Repetição  
 🔸Certifique seu conhecimento  
