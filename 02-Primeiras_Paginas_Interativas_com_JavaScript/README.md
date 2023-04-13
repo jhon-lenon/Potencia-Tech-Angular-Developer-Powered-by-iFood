@@ -19,7 +19,7 @@ ____________________________
 🔹Praticando com Funções  
 🔸Certifique seu conhecimento   
 
-## 📚<i>Curso -</i> Criando Objetos e Classes em JavaScript - 👨‍🎓[Certificado]() 
+## 📚<i>Curso -</i> Criando Objetos e Classes em JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/03-Criando_Objeto_e_Classes_com_JavaScript) 
 🔹Entendendo Objetos e Classes
 🔹Praticando com Objetos e Classes
 🔸Certifique seu conhecimento   
