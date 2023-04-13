@@ -1,4 +1,4 @@
-# 📚Primeiros Passos Com JavaScript
+# 📚Primeiras Páginas Interativas Com JavaScript
 
 ## 👀Descrição:
 <b>
@@ -17,6 +17,11 @@ ____________________________
  
 🔹O Poder das Funções na Qualidade do Seu Código  
 🔹Praticando com Funções  
+🔸Certifique seu conhecimento   
+
+## 📚<i>Curso -</i> Criando Objetos e Classes em JavaScript - 👨‍🎓[Certificado]() 
+🔹Entendendo Objetos e Classes
+🔹Praticando com Objetos e Classes
 🔸Certifique seu conhecimento   
 
 ### ⭐️ [Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1) 
