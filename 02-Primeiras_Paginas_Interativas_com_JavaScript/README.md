@@ -27,7 +27,7 @@ ____________________________
 🔹Praticando Estruturas de Repetição  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Importação e Exportação com JavaScript - 👨‍🎓[Certificado]
+## 📚<i>Curso -</i> Importação e Exportação com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/05-Importa%C3%A7%C3%A3o_e_Exporta%C3%A7%C3%A3o_com_JavaScript)  
 🔹Desvendando as Funções "gets" e "print" dos Desafios de Código  
 🔹Praticando os Conceitos de Importação e Exportação  
 🔸Certifique seu conhecimento  
