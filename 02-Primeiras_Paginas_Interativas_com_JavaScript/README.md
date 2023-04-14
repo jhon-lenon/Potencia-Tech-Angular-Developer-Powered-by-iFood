@@ -112,11 +112,9 @@ ____________________________
 
 
 
-
-### ⭐️ [Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1)  
-
-### ⭐️ Links Úteis  
-[Mozilla Developer Network (MDN)]("https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web")  
+### ⭐️Materiais de Apoio  
+[GitHub do Instrutor](https://github.com/digitalinnovationone/javascript-developer-m1)  
+[Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)  
 
 _____________________________  
 ## <b>👨‍🏫Mentoria:  
