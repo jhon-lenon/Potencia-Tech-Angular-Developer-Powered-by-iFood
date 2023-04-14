@@ -32,7 +32,7 @@ ____________________________
 🔹Praticando os Conceitos de Importação e Exportação  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Introdução ao Desenvolvimento Web com JavaScript - 👨‍🎓[Certificado]
+## 📚<i>Curso -</i> Introdução ao Desenvolvimento Web com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/06-Introducao_ao_Desenvolvimento_Web_com_JavaScript)  
 🔹Introdução  
 🔹Configuração do ambiente  
 🔹Protocolo cliente servidor  
@@ -113,7 +113,10 @@ ____________________________
 
 
 
-### ⭐️ [Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1)   
+### ⭐️ [Materiais de Apoio](https://github.com/digitalinnovationone/javascript-developer-m1)  
+
+### ⭐️ Links Úteis  
+[Mozilla Developer Network (MDN)]("https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web")  
 
 _____________________________  
 ## <b>👨‍🏫Mentoria:  
