@@ -41,7 +41,7 @@ ____________________________
 🔹Introdução ao JavaScript voltando para web   
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Criando um Projeto com HTML/CSS para Listagem de Pokémon - 👨‍🎓[Certificado]  
+## 📚<i>Curso -</i> Criando um Projeto com HTML/CSS para Listagem de Pokémon - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/07-Criando_um_Projento_com_HTML_e_CSS_para_Listagem_de_Pokemon)   
 ### 🔺Configurações Gerais do Projeto  
 🔹Adicionando normalize css no projeto  
 🔹Organizando o projeto  
