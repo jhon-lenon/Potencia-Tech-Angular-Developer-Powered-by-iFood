@@ -56,7 +56,7 @@ ____________________________
 🔹Separando os estilos  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Dominando o Protocolo HTTP e Integrando com a PokeAPI - 👨‍🎓[Certificado]  
+## 📚<i>Curso -</i> Dominando o Protocolo HTTP e Integrando com a PokeAPI - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/08-Dominando_o_Protocolo_HTML_e_Integrando_com_a_PokeAPI)    
 ### 🔺Entendendo o Funcionamento do Protocolo HTTP  
 🔹Introdução a APIs  
 🔹Como funcionam as requisições  
