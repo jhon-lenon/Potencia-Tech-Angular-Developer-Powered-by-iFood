@@ -6,33 +6,33 @@ Dando os Primeiros passo em JavaScript no bootcamp POTENCIA TECH - ANGULAR DEVEL
 </b>   
 
 ____________________________
-## 📚<i>Curso -</i> Primeiros Passos Com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/01-Primeiros_Passos_Com_JavaScript)
+## 📚<i>Curso -</i> Primeiros Passos Com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/01-Primeiros_Passos_Com_JavaScript/README.md)
 🔹Variáveis e Operadores  
 🔹Estruturas Condicionais  
 🔹Praticando com Variáveis, Operadores e Estruturas Condicionais  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Conhecendo Funções JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/02_Conhecendo_Fun%C3%A7%C3%B5es_JavaScript)  
+## 📚<i>Curso -</i> Conhecendo Funções JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/02_Conhecendo_Fun%C3%A7%C3%B5es_JavaScript/README.md)  
 🔹O Poder das Funções na Qualidade do Seu Código  
 🔹Praticando com Funções  
 🔸Certifique seu conhecimento   
 
-## 📚<i>Curso -</i> Criando Objetos e Classes em JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/03-Criando_Objeto_e_Classes_com_JavaScript)   
+## 📚<i>Curso -</i> Criando Objetos e Classes em JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/03-Criando_Objeto_e_Classes_com_JavaScript/README.md)   
 🔹Entendendo Objetos e Classes  
 🔹Praticando com Objetos e Classes  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Arrays e Estruturas de Repetição em JavaScrip - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/04-Arrays_Estruturas_de_Repeti%C3%A7%C3%A3o_em_JavaScrip)  
+## 📚<i>Curso -</i> Arrays e Estruturas de Repetição em JavaScrip - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/04-Arrays_Estruturas_de_Repeti%C3%A7%C3%A3o_em_JavaScrip/README.md)  
 🔹Arrays e Estruturas de Repetição  
 🔹Praticando Estruturas de Repetição  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Importação e Exportação com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/05-Importa%C3%A7%C3%A3o_e_Exporta%C3%A7%C3%A3o_com_JavaScript)  
+## 📚<i>Curso -</i> Importação e Exportação com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/05-Importa%C3%A7%C3%A3o_e_Exporta%C3%A7%C3%A3o_com_JavaScript/README.md)  
 🔹Desvendando as Funções "gets" e "print" dos Desafios de Código  
 🔹Praticando os Conceitos de Importação e Exportação  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Introdução ao Desenvolvimento Web com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/06-Introducao_ao_Desenvolvimento_Web_com_JavaScript)  
+## 📚<i>Curso -</i> Introdução ao Desenvolvimento Web com JavaScript - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/06-Introducao_ao_Desenvolvimento_Web_com_JavaScript/README.md)  
 🔹Introdução  
 🔹Configuração do ambiente  
 🔹Protocolo cliente servidor  
@@ -41,7 +41,7 @@ ____________________________
 🔹Introdução ao JavaScript voltando para web   
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Criando um Projeto com HTML/CSS para Listagem de Pokémon - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/07-Criando_um_Projento_com_HTML_e_CSS_para_Listagem_de_Pokemon)   
+## 📚<i>Curso -</i> Criando um Projeto com HTML/CSS para Listagem de Pokémon - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/07-Criando_um_Projento_com_HTML_e_CSS_para_Listagem_de_Pokemon/README.md)   
 ### 🔺Configurações Gerais do Projeto  
 🔹Adicionando normalize css no projeto  
 🔹Organizando o projeto  
@@ -56,7 +56,7 @@ ____________________________
 🔹Separando os estilos  
 🔸Certifique seu conhecimento  
 
-## 📚<i>Curso -</i> Dominando o Protocolo HTTP e Integrando com a PokeAPI - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/tree/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/08-Dominando_o_Protocolo_HTML_e_Integrando_com_a_PokeAPI)    
+## 📚<i>Curso -</i> Dominando o Protocolo HTTP e Integrando com a PokeAPI - 👨‍🎓[Certificado](https://github.com/jhon-lenon/Potencia-Tech-Angular-Developer-Powered-by-iFood/blob/main/02-Primeiras_Paginas_Interativas_com_JavaScript/Certificados/08-Dominando_o_Protocolo_HTML_e_Integrando_com_a_PokeAPI/README.md)    
 ### 🔺Entendendo o Funcionamento do Protocolo HTTP  
 🔹Introdução a APIs  
 🔹Como funcionam as requisições  
